@@ -32,6 +32,7 @@ bin/
 *dist/
 dist/
 lib/
+target/
 
 .idea
 .metadata
