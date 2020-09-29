@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/home/marco.frassoni/dev/workspace/uni/introsde/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1415035776.index
-/sdelab06-local/src
-/home/marco.frassoni/dev/workspace/uni/introsde/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1301945598.index
-/sdelab06-local/src

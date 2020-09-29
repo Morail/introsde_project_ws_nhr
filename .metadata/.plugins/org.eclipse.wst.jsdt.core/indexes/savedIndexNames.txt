@@ -1,9 +1,0 @@
-INDEX VERSION 1.4+/home/marco.frassoni/dev/workspace/uni/introsde/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-4040723145.index
-3285164110.index
-1307421489.index
-3963663937.index
-2080747948.index
-712496940.index
-2445786642.index
-3697730358.index
