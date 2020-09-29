@@ -1,0 +1,9 @@
+127.0.0.1 - - [18/Aug/2020:23:27:21 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:27:22 +0200] "GET /sdelab05-local/salutation HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:28:14 +0200] "GET /sdelab05-local/salutation HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:28:18 +0200] "POST /sdelab05-local/salutation HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:28:19 +0200] "POST /sdelab05-local/salutation HTTP/1.1" 200 26
+127.0.0.1 - - [18/Aug/2020:23:29:20 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:29:20 +0200] "GET /sdelab05-local/salutation HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:29:28 +0200] "POST /sdelab05-local/salutation HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:23:29:28 +0200] "POST /sdelab05-local/salutation HTTP/1.1" 200 30

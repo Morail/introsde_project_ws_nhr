@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;introsde.rest.ehealth.resource&apos; to &apos;introsde.rest.ehealth.resources&apos;&#x0A;- Original project: &apos;sdelab06-local&apos;&#x0A;- Original element: &apos;sdelab06-local/src/introsde.rest.ehealth.resource&apos;&#x0A;- Renamed element: &apos;sdelab06-local/src/introsde.rest.ehealth.resources&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;introsde.rest.ehealth.resource&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;introsde.rest.ehealth.resource" name="introsde.rest.ehealth.resources" qualified="false" references="true" stamp="1597847159891" textual="false" version="1.0"/>
+</session>
